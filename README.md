@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Golang | C# | Unity
+
